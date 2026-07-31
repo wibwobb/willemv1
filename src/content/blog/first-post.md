@@ -2,7 +2,7 @@
 title: "First blog post"
 description: "Don't delete this future me please"
 pubDate: "Jul 31 2026"
-heroImage: "/First%20BLOG.png"
+heroImage: "/public/First BLOG.png"
 ---
 
 Hello, Welcome to my first blog post. I am writing this blog because I am not really sure what to do with the website right now and all the "lorem ipsum" stuff is annoying me so I thought I would just speak my mind. I guess if there is anyone actually reading this at some point, it is pretty cool and especially if you are from my future. Like I don't even know you right now but I know you then. But maybe I won't even know you either and you have just stumbled on this page...
