@@ -1,11 +1,17 @@
 ---
-title: "First post"
-description: "Lorem ipsum dolor sit amet"
-pubDate: "Jul 08 2022"
+title: "First blog post"
+description: "Don't delete this future me please"
+pubDate: "Jul 31 2026"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Hello, Welcome to my first blog post. I am writing this blog because I am not really sure what to do with the website right now and all the "lorem ipsum" stuff is annoying me so I thought I would just speak my mind. I guess if there is anyone actually reading this at some point, it is pretty cool and especially if you are from my future. Like I don't even know you right now but I know you then. But maybe I won't even know you either and you have just stumbled on this page...
+
+I think one reason I made this website is because I want a google page about me that is pretty cool, perhaps it will trick the algorythm into thinking I am famous since I have a website and make a page about me. I guess we can only find out. 
+
+I am currently procrastinating studying engineering 1217 and like watching a math lecture I missed because of work, I wonder how I will do in these courses. Will I fail? Time will tell, although I hope not and I do think I will be fine. 
+
+
 
 Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
 
