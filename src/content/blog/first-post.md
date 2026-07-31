@@ -9,7 +9,7 @@ Hello, Welcome to my first blog post. I am writing this blog because I am not re
 
 I think one reason I made this website is because I want a google page about me that is pretty cool, perhaps it will trick the algorythm into thinking I am famous since I have a website and make a page about me. I guess we can only find out. 
 
-I am currently procrastinating studying engineering 1217 and like watching a math lecture I missed because of work, I wonder how I will do in these courses. Will I fail? Time will tell, although I hope not and I do think I will be fine. 
+I am currently procrastinating studying engineering and like watching a math lecture I missed because of work, I wonder how I will do in these courses. Will I fail? Time will tell, although I hope not and I do think I will be fine. 
 
 
 
